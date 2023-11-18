@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body,
+html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#result {
+    display: none;
+}
+
+.row {
+    margin: 20px;
+}
+
+span {
+    font-size: larger;
+}

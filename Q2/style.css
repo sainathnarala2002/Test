@@ -1,0 +1,18 @@
+#outputsDiv {
+    margin-top: 60px;
+  }
+
+  .studentRow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    /* border-bottom: 1px solid black; */
+  }
+
+  .studentRow>div {
+    width: 20%;
+    /* border: 1px solid salmon; */
+    padding: 4px;
+    display: flex;
+  }
